@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7E400&background=FFFFFF00&width=435&lines=BRIAN+RIAN+REHAN)"></h1>
+<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&pause=1000&color=F7E400&background=FFFFFF00&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+BRIAN+RIAN+REHAN"></h1>
 
 <h3 align="center">A passionate JavaScript developer from Indonesia</h3>
 
