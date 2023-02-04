@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brianrianrehan&label=Profile%20views&color=0e75b6&style=flat" alt="brianrianrehan" /> </p>
 
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brianrianrehan" alt="brianrianrehan" /></a> </p> -->
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brianrianrehan" alt="brianrianrehan" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/brianrianrehan" target="blank"><img src="https://img.shields.io/twitter/follow/brianrianrehan?logo=twitter&style=for-the-badge" alt="brianrianrehan" /></a> </p>
 
