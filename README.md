@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm BRIAN RIAN REHAN</h1>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7E400&background=FFFFFF00&width=435&lines=BRIAN+RIAN+REHAN)](https://git.io/typing-svg">
+<h1 align="center">Hi 👋, I'm<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7E400&background=FFFFFF00&width=435&lines=BRIAN+RIAN+REHAN)"></h1>
+
 <h3 align="center">A passionate JavaScript developer from Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brianrianrehan&label=Profile%20views&color=0e75b6&style=flat" alt="brianrianrehan" /> </p>
