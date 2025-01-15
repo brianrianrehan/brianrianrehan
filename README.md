@@ -8,10 +8,6 @@
 
 <p align="left"> <a href="https://twitter.com/brianrianrehan" target="blank"><img src="https://img.shields.io/twitter/follow/brianrianrehan?logo=twitter&style=for-the-badge" alt="brianrianrehan" /></a> </p>
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/brianrianrehan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="brianrianrehan" height="30" width="40" /></a>
@@ -122,13 +118,6 @@
 <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=brianrianrehan&show_icons=true&layout=compact&theme=tokyonight" alt="arfindwio" />
 <img align="right" width="50%"  src="https://github-readme-stats.vercel.app/api?username=brianrianrehan&show_icons=true&theme=tokyonight&layout=compact" />
 </p>
-
-<br><br><br><br><br><br><br><br><br><br>
-
-<p align="center">
-  <img width="88%" src="https://github-readme-streak-stats.herokuapp.com/?user=brianrianrehan&theme=tokyonight" />
-</p>
-
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/brianrianrehan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="brianrianrehan" /></a></p><br><br>
