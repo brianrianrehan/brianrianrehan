@@ -117,8 +117,18 @@
  </tr>
 </table>
 
-<h3 align="left">Languages:</h3>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=brianrianrehan&show_icons=true&locale=en&layout=compact" alt="brianrianrehan" /></p>
+<h1 align="center">Github Stats</h1>
+<p align="center">
+<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=brianrianrehan&show_icons=true&layout=compact&theme=tokyonight" alt="arfindwio" />
+<img align="right" width="50%"  src="https://github-readme-stats.vercel.app/api?username=brianrianrehan&show_icons=true&theme=tokyonight&layout=compact" />
+</p>
+
+<br><br><br><br><br><br><br><br><br><br>
+
+<p align="center">
+  <img width="88%" src="https://github-readme-streak-stats.herokuapp.com/?user=brianrianrehan&theme=tokyonight" />
+</p>
+
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/brianrianrehan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="brianrianrehan" /></a></p><br><br>
