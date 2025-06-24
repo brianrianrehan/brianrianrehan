@@ -47,8 +47,8 @@
       <br>ESLint
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="65" height="65" />
-      <br>Prettier
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+      <br>Python
     </td>
   </tr>
   <tr>
