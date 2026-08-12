@@ -1,78 +1,76 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Brian+Rian+Rehan+%F0%9F%91%8B;Full-stack+developer+from+Indonesia;Building+ideas+into+useful+digital+products" alt="Typing introduction">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=760&lines=ACCESS+GRANTED+%E2%9C%93;root%40brian%3A~%24+whoami;full-stack+developer+%7C+Indonesia;building+clean+systems+in+the+dark" alt="Terminal introduction">
 
-<br>
+<br><br>
 
-<a href="https://github.com/brianrianrehan">
-  <img src="https://komarev.com/ghpvc/?username=brianrianrehan&label=PROFILE+VIEWS&color=58A6FF&style=for-the-badge" alt="Profile views">
-</a>
-<a href="https://github.com/brianrianrehan?tab=followers">
-  <img src="https://img.shields.io/github/followers/brianrianrehan?label=FOLLOWERS&style=for-the-badge&color=1F6FEB" alt="Followers">
-</a>
-<a href="https://github.com/brianrianrehan?tab=repositories">
-  <img src="https://img.shields.io/github/stars/brianrianrehan?label=STARS&style=for-the-badge&color=8957E5" alt="Stars">
-</a>
+<img src="https://img.shields.io/badge/STATUS-ONLINE-00FF41?style=for-the-badge&labelColor=050505" alt="Status online">
+<img src="https://img.shields.io/badge/MODE-BUILDING-00FF41?style=for-the-badge&labelColor=050505" alt="Mode building">
+<img src="https://img.shields.io/badge/LOCATION-INDONESIA-00FF41?style=for-the-badge&labelColor=050505" alt="Location Indonesia">
 
 </div>
 
----
+~~~text
+┌──[brian@github]─[~/profile]
+└─$ cat identity.txt
 
-## 👨‍💻 About me
+  NAME      : Brian Rian Rehan
+  ROLE      : Full-stack Developer
+  SPECIALTY : Web Apps • APIs • Databases • Automation
+  MINDSET   : Learn → Build → Secure → Repeat
+~~~
 
-I'm a full-stack developer who enjoys turning ideas into polished, useful, and maintainable web applications.
+## whoami
 
-- 🚀 Building responsive interfaces and reliable backend systems
-- 🧩 Designing practical APIs, database structures, and developer tools
-- 🎯 Focused on clean code, thoughtful UX, and continuous improvement
-- 🌏 Based in Indonesia and always open to learning something new
+I'm a full-stack developer focused on building reliable digital products with clean architecture, sharp interfaces, and a security-minded approach.
 
-## 🛠️ What I build
+- >_ Crafting responsive web applications
+- >_ Designing APIs and database systems
+- >_ Automating repetitive workflows
+- >_ Exploring better ways to build and ship software
 
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h3>🌐 Web apps</h3>
-      Modern interfaces that feel fast, clear, and easy to use.
-    </td>
-    <td width="33%" valign="top">
-      <h3>⚙️ Backend systems</h3>
-      APIs and services built with reliable foundations.
-    </td>
-    <td width="33%" valign="top">
-      <h3>🧰 Developer tools</h3>
-      Small tools that make everyday work simpler.
-    </td>
-  </tr>
-</table>
+## capabilities
 
-## ⚡ Tech stack
+| module | focus |
+| --- | --- |
+| frontend.core | React, Redux, JavaScript, HTML, CSS |
+| backend.services | Node.js, Express, PHP, Python |
+| data.layer | MySQL, PostgreSQL, Prisma, Sequelize |
+| ops.tooling | Git, GitHub, Vite, Postman, Sentry |
+
+## tech_stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,redux,js,html,css,tailwind,bootstrap,nodejs,express,php,python,mysql,postgres,prisma,sequelize,git,github,postman,sentry,vite" alt="Tech stack">
+  <img src="https://skillicons.dev/icons?i=react,redux,js,html,css,tailwind,bootstrap,nodejs,express,php,python,mysql,postgres,prisma,sequelize,git,github,postman,sentry,vite&theme=dark" alt="Technologies">
 </p>
 
-## 📊 GitHub activity
+## system_metrics
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=brianrianrehan&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=58A6FF&icon_color=8957E5&text_color=C9D1D9" alt="Brian's GitHub stats">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brianrianrehan&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top languages">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=brianrianrehan&show_icons=true&hide_border=true&theme=chartreuse-dark&bg_color=050505&title_color=00FF41&icon_color=00FF41&text_color=9AFF9A" alt="GitHub stats">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brianrianrehan&layout=compact&hide_border=true&theme=chartreuse-dark&bg_color=050505&title_color=00FF41&text_color=9AFF9A" alt="Top languages">
 </div>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=brianrianrehan&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=8957E5&currStreakLabel=58A6FF" alt="GitHub streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=brianrianrehan&theme=dark&hide_border=true&background=050505&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" alt="GitHub streak">
 </p>
 
----
+## connection
+
+~~~bash
+$ git clone https://github.com/brianrianrehan
+$ cd brianrianrehan
+$ echo "keep building."
+~~~
 
 <div align="center">
 
-> <em>"Simple solutions. Solid foundations. Meaningful results."</em>
-
-<br>
-
 <a href="https://github.com/brianrianrehan">
-  <img src="https://img.shields.io/badge/Let's_connect-181717?style=for-the-badge&logo=github&logoColor=white" alt="Let's connect on GitHub">
+  <img src="https://img.shields.io/badge/GITHUB-brianrianrehan-00FF41?style=for-the-badge&logo=github&logoColor=00FF41&labelColor=050505" alt="GitHub">
 </a>
+
+<br><br>
+
+<sub><code>stay curious • think clearly • ship securely</code></sub>
 
 </div>
