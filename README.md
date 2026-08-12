@@ -44,15 +44,22 @@ I'm a full-stack developer focused on building reliable digital products with cl
   <img src="https://skillicons.dev/icons?i=react,redux,js,html,css,tailwind,bootstrap,nodejs,express,php,python,mysql,postgres,prisma,sequelize,git,github,postman,sentry,vite&theme=dark" alt="Technologies">
 </p>
 
-## system_metrics
+## system_status
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=brianrianrehan&show_icons=true&hide_border=true&theme=chartreuse-dark&bg_color=050505&title_color=00FF41&icon_color=00FF41&text_color=9AFF9A" alt="GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brianrianrehan&layout=compact&hide_border=true&theme=chartreuse-dark&bg_color=050505&title_color=00FF41&text_color=9AFF9A" alt="Top languages">
-</div>
+~~~text
+┌──[brian@github]─[~/profile]
+└─$ system-check
+
+  [OK] PROFILE      ONLINE
+  [OK] BUILD        WEB • API • DATABASE
+  [OK] APPROACH     CLEAN CODE • SECURE DEFAULTS
+  [..] NEXT         LEARN • BUILD • SHIP
+~~~
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=brianrianrehan&theme=dark&hide_border=true&background=050505&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" alt="GitHub streak">
+  <img src="https://img.shields.io/badge/WEB_APPS-00FF41?style=for-the-badge&labelColor=050505" alt="Web apps">
+  <img src="https://img.shields.io/badge/APIs-00FF41?style=for-the-badge&labelColor=050505" alt="APIs">
+  <img src="https://img.shields.io/badge/DATABASES-00FF41?style=for-the-badge&labelColor=050505" alt="Databases">
 </p>
 
 ## connection
